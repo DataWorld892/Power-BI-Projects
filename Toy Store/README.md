@@ -24,5 +24,5 @@ Link Project Video: https://www.youtube.com/watch?v=-TmginxY0vw&list=PLGAnLqlBhx
 
 - The most orders were received by the store in December and February
 - The two most ordered categories in the toy shop are "Toys" and "Arts & Crafts" 
-- 
+  
    
