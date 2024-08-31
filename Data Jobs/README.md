@@ -16,11 +16,9 @@ Link Project Video: https://www.youtube.com/watch?v=WmtXwVIZRAo
 ### Steps followed
 
 - To improve data visualisation and comprehensibility, using SQL in MySQL, the dataset was expanded with 2 additional columns: no_of_positions, sum_salaries. 
+- Create an interactive BI dashboard
+- Visualising data and analysing trends in the Data Science industry.
 
 
 
-'''
-
-
-'''
 
