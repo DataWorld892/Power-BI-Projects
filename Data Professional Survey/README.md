@@ -12,6 +12,11 @@ Link Dataset: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20
 
 Link Project Video: https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=13
 
+
+### Steps Followed
+
+
+
 ### Insights 
 
 - A total of 630 data professionals participated in the survey.
