@@ -15,6 +15,10 @@ Link Project Video: https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk
 
 ### Steps Followed
 
+- Analysing Tables and Relationships
+- Clean data with Power Query Editor 
+- Create an interactive BI dashboard
+- Visualising data and analysing trends in the data professional sector
 
 
 ### Insights 
