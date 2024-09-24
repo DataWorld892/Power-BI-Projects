@@ -9,7 +9,9 @@ The dashboard features an interactive and intuitive interface for exploring and 
 
 ### Steps followed
 
-- Import Excel COVID-19 dataset into PowerBI
-- Removing of errors from the columns.
-- Removing of null or NA from the dataset
-- Changing the data types of some of the columns.
+- Imported the Excel COVID-19 dataset into Power BI.
+- Cleaned the data by identifying and removing errors from the columns.
+- Handled missing values by removing rows containing null or NA entries.
+- Optimized the dataset by adjusting the data types of specific columns for
+- Created an interactive BI dashboard
+- Visualised data and analysing trends
