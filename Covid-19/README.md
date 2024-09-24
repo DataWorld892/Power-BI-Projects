@@ -5,9 +5,9 @@
 The objective of this project was to design a PowerBI dashboard to visualise and analyse the trends of the pandemic and its overall impact.
 The dashboard features an interactive and intuitive interface for exploring and analysing essential metrics such as cases, deaths, recoveries, and more.
 
-### Dataset
+### Data Source
 
-Link to Dataset: https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset
+Link Dataset: https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset
 
 
 ### Steps followed
