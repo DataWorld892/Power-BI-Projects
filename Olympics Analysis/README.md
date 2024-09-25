@@ -16,7 +16,6 @@ Link Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-hist
 3. Add calculated measures & fields
 4. Build an interactive report
 
-### Insights
 
 
   
