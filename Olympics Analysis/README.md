@@ -11,11 +11,11 @@ Link Dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-hist
 
 ### Steps followed
 
-1. Connect and profile the data
-2. Create a relational model
-3. Add calculated measures & fields
-4. Build an interactive report
-
+- Imported the Excel Olympics dataset into Power BI.
+- Cleaned the data by identifying and removing errors from the columns.
+- Handled missing values by removing rows containing null or NA entries.
+- Optimized the dataset by adjusting the data types of specific columns 
+- Created an interactive BI dashboard
 
 
   
