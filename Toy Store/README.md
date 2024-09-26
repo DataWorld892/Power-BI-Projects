@@ -15,10 +15,10 @@ Link Project Video: https://www.youtube.com/watch?v=-TmginxY0vw&list=PLGAnLqlBhx
 
 ### Steps followed
 
-1. Connect and profile the data
-2. Create a relational model
-3. Add calculated measures & fields
-4. Build an interactive report
+- Connect and profile the data
+- Create a relational model
+- Add calculated measures & fields
+- Build an interactive report
 
 ### Insights
 
