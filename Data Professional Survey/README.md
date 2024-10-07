@@ -10,7 +10,6 @@ The dashboard includes various charts and graphs to illustrate the survey result
 
 Link Dataset: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 
-Link Project Video: https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=13
 
 
 ### Steps followed
