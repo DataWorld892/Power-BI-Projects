@@ -1,4 +1,4 @@
-# Fruir Sales Analysis
+# Fruit Sales Analysis
 
 
 ### Introduction
